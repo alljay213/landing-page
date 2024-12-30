@@ -33,22 +33,42 @@ header ul {
   gap: 15px;
 }
 
-header a {
+a {
   text-decoration: none;
-  color: #f9faf8;
 }
 
 main {
-  padding: 2.5rem 5rem;
+  padding: 5rem 5rem;
   display: flex;
   gap: 50px;
   align-items: center;
+  justify-content: space-between;
 }
 
-main div {
+main h2 {
+  font-size: 48px;
+  color: #f9faf8;
+  font-weight: 900;
+  margin-bottom: 10px;
+}
+
+main p {
+  margin-bottom: 20px;
+}
+main p,
+main a,
+header a {
+  font-size: 18px;
+  color: #e5e7eb;
 }
 
 main img {
   height: 200px;
   width: auto;
+}
+
+main a {
+  background-color: #3882f6;
+  padding: 5px 20px;
+  border-radius: 10px;
 }
