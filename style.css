@@ -41,4 +41,14 @@ header a {
 main {
   padding: 2.5rem 5rem;
   display: flex;
+  gap: 50px;
+  align-items: center;
+}
+
+main div {
+}
+
+main img {
+  height: 200px;
+  width: auto;
 }
