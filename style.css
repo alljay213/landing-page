@@ -78,9 +78,42 @@ main div {
 }
 
 .info {
-  padding: 3rem 9rem 5rem;
+  padding: 1.5rem 9rem 5rem;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  gap: 1.5rem;
+}
+
+.info h3 {
+  font-size: 36px;
+  color: #1f2937;
+  font-weight: 900;
+}
+
+.card-container {
+  display: flex;
+  gap: 3rem;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card img {
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+  border: 3px solid #3882f6;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.card p {
+  max-width: 150px;
+  text-align: center;
+  word-wrap: break-word;
 }
