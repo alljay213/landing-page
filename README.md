@@ -4,3 +4,7 @@
   Generated with AI.  
   Source: [Adobe Stock](https://stock.adobe.com/832562742)  
   License: Free for personal and commercial use. No attribution required.
+
+- "Air conditioning units on top of modern building."
+  Source: [Adobe Stock](https://stock.adobe.com/265714022)
+  License: Free for personal and commercial use. No attribution required.
